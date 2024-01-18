@@ -1,3 +1,10 @@
 p{
     color: green;
 }
+table{
+    color: violet;
+    background-color: black;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
